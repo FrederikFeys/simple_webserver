@@ -1,0 +1,25 @@
+{
+  "name": "webservers",
+  "version": "1.0.0",
+  "description": "Demo of Node.js web server",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrederikFeys/simple_webserver.git"
+  },
+  "keywords": [
+    "demo",
+    "web",
+    "server"
+  ],
+  "author": "Frederik Feys",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrederikFeys/simple_webserver/issues"
+  },
+  "homepage": "https://github.com/FrederikFeys/simple_webserver#readme"
+}
